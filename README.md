@@ -21,7 +21,8 @@ It is usually:
 
 Basically, you'll need to clone this whole repository into your styles folder.
  * git clone https://github.com/zyrx/wk-mapstylepro.git
- Or download this repository as a zip file and unzip into styles folder.
+
+Or download this repository as a zip file and unzip into styles folder.
 
 ## Usage
 Once you have created a map, select 'wk-mapstylepro' as default style, configure and load it anywhere on your website using shortcodes or the universal Widgetkit WordPress widget.
