@@ -1,0 +1,1 @@
+<?php //Never miss a god chance to shut up ?>

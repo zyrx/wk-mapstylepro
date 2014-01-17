@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<style name="wk-mapstylepro" label="Map Style Pro">
+	<fields>
+		<field name="title" label="Title" type="title" description="" />
+		<field name="location" label="Location" type="location" description="" />
+		<field name="popup" label="Popup" type="html" description="" />
+	</fields>
+	<settings>
+		<setting name="markerImage" label="Image Marker" type="text" default=""/>
+		<setting name="markerFrom" label="Image Marker From" type="text" default=""/>
+		<setting name="markerSize" label="Marker Size" type="radio" default="64">
+			<option value="64">64 px</option>
+			<option value="32">32 px</option>
+		</setting>
+		<setting name="language" label="Directions Language" type="list" default="en">
+			<option value="ar">Arabic</option>
+			<option value="eu">Basque</option>
+			<option value="bg">Bulgarian</option>
+			<option value="bn">Bengali</option>
+			<option value="ca">Catalan</option>
+			<option value="cs">Czech</option>
+			<option value="da">Danish</option>
+			<option value="de">German</option>
+			<option value="el">Greek</option>
+			<option value="en">English</option>
+			<option value="en-AU">English(australian)</option>
+			<option value="en-GB">English(greatbritain)</option>
+			<option value="es">Spanish</option>
+			<option value="eu">Basque</option>
+			<option value="fa">Farsi</option>
+			<option value="fi">Finnish</option>
+			<option value="fil">Filipino</option>
+			<option value="fr">French</option>
+			<option value="gl">Galician</option>
+			<option value="gu">Gujarati</option>
+			<option value="hi">Hindi</option>
+			<option value="hr">Croatian</option>
+			<option value="hu">Hungarian</option>
+			<option value="id">Indonesian</option>
+			<option value="it">Italian</option>
+			<option value="iw">Hebrew</option>
+			<option value="ja">Japanese</option>
+			<option value="kn">Kannada</option>
+			<option value="ko">Korean</option>
+			<option value="lt">Lithuanian</option>
+			<option value="lv">Latvian</option>
+			<option value="ml">Malayalam</option>
+			<option value="mr">Marathi</option>
+			<option value="nl">Dutch</option>
+			<option value="nn">Norwegiannynorsk</option>
+			<option value="no">Norwegian</option>
+			<option value="or">Oriya</option>
+			<option value="pl">Polish</option>
+			<option value="pt">Portuguese</option>
+			<option value="pt-BR">Portuguese(brazil)</option>
+			<option value="pt-PT">Portuguese(portugal)</option>
+			<option value="rm">Romansch</option>
+			<option value="ro">Romanian</option>
+			<option value="ru">Russian</option>
+			<option value="sk">Slovak</option>
+			<option value="sl'">Slovenian</option>
+			<option value="sr">Serbian</option>
+			<option value="sv'">Swedish</option>
+			<option value="tl'">Tagalog</option>
+			<option value="ta">Tamil</option>
+			<option value="te">Telugu</option>
+			<option value="th">Thai</option>
+			<option value="tr">Turkish</option>
+			<option value="uk">Ukrainian</option>
+			<option value="vi">Vietnamese</option>
+			<option value="zh-CN">Chinese(simplified)</option>
+			<option value="zh-TW">Chinese(traditional)</option>
+		</setting>
+		<setting name="sensor" label="Browser Language Detection" type="radio" default="0">
+			<option value="0">No</option>
+			<option value="1">Yes</option>
+		</setting>
+	</settings>
+</style>
